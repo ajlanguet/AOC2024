@@ -1,6 +1,6 @@
 ﻿
 // Day 1
-string filePath = "../AOC2024/AOCProblemOne/AOCproblem1.txt";
+string filePath = "../AOCProblemOne/AOCproblem1.txt";
 
 string[] lines = File.ReadAllLines(filePath);
 

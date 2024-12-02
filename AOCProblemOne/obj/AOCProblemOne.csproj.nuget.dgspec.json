@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/myfuhrer/Desktop/AOC2024/AOCProblemOne/AOCProblemOne.csproj": {}
+    "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemOne/AOCProblemOne.csproj": {}
   },
   "projects": {
-    "/Users/myfuhrer/Desktop/AOC2024/AOCProblemOne/AOCProblemOne.csproj": {
+    "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemOne/AOCProblemOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/myfuhrer/Desktop/AOC2024/AOCProblemOne/AOCProblemOne.csproj",
+        "projectUniqueName": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemOne/AOCProblemOne.csproj",
         "projectName": "AOCProblemOne",
-        "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOCProblemOne/AOCProblemOne.csproj",
+        "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemOne/AOCProblemOne.csproj",
         "packagesPath": "/Users/myfuhrer/.nuget/packages/",
-        "outputPath": "/Users/myfuhrer/Desktop/AOC2024/AOCProblemOne/obj/",
+        "outputPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemOne/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/myfuhrer/.nuget/NuGet/NuGet.Config"

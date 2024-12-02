@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AOC2024\AOCProblemOne\AOCProblemOne.csproj" />
+    <ProjectReference Include="..\AOCProblemOne\AOCProblemOne.csproj" />
   </ItemGroup>
 
 </Project>

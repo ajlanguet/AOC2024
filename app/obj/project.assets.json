@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/myfuhrer/Desktop/AOC2024/app/app.csproj",
+      "projectUniqueName": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/app/app.csproj",
       "projectName": "app",
-      "projectPath": "/Users/myfuhrer/Desktop/AOC2024/app/app.csproj",
+      "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/app/app.csproj",
       "packagesPath": "/Users/myfuhrer/.nuget/packages/",
-      "outputPath": "/Users/myfuhrer/Desktop/AOC2024/app/obj/",
+      "outputPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/myfuhrer/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/myfuhrer/Desktop/AOC2024/AOCProblemOne/AOCProblemOne.csproj": {
-              "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOCProblemOne/AOCProblemOne.csproj"
+            "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemOne/AOCProblemOne.csproj": {
+              "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemOne/AOCProblemOne.csproj"
             }
           }
         }
