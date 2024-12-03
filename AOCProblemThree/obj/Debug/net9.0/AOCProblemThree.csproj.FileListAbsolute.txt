@@ -1,0 +1,12 @@
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/bin/Debug/net9.0/AOCProblemThree.deps.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/bin/Debug/net9.0/AOCProblemThree.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/bin/Debug/net9.0/AOCProblemThree.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/obj/Debug/net9.0/AOCProblemThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/obj/Debug/net9.0/AOCProblemThree.AssemblyInfoInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/obj/Debug/net9.0/AOCProblemThree.AssemblyInfo.cs
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/obj/Debug/net9.0/AOCProblemThree.csproj.CoreCompileInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/obj/Debug/net9.0/AOCProblemThree.sourcelink.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/obj/Debug/net9.0/AOCProblemThree.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/obj/Debug/net9.0/refint/AOCProblemThree.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/obj/Debug/net9.0/AOCProblemThree.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemThree/obj/Debug/net9.0/ref/AOCProblemThree.dll

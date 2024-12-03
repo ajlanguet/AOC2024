@@ -38,4 +38,14 @@ Console.WriteLine(AocDayTwo.PartOne(levels));
 Console.WriteLine("Aoc Day 2 Part 2 Ans");
 Console.WriteLine(AocDayTwo.PartTwo(levels));
 
+// Day 3
+
+string filePath3 = "../AOCProblemThree/AOCproblem3.txt";
+
+string[] lines3 = File.ReadAllLines(filePath3);
+
+Console.WriteLine("Aoc Day 3 Part 1 Ans");
+Console.WriteLine(AocDayThree.PartOne(lines3));
+Console.WriteLine("Aoc Day 3 Part 2 Ans");
+Console.WriteLine(AocDayThree.PartTwo(lines3));
 
