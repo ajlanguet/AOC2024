@@ -1,0 +1,12 @@
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/obj/Debug/net9.0/AOCProblemTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/obj/Debug/net9.0/AOCProblemTwo.AssemblyInfoInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/obj/Debug/net9.0/AOCProblemTwo.AssemblyInfo.cs
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/obj/Debug/net9.0/AOCProblemTwo.csproj.CoreCompileInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/obj/Debug/net9.0/AOCProblemTwo.sourcelink.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/bin/Debug/net9.0/AOCProblemTwo.deps.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/bin/Debug/net9.0/AOCProblemTwo.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/bin/Debug/net9.0/AOCProblemTwo.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/obj/Debug/net9.0/AOCProblemTwo.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/obj/Debug/net9.0/refint/AOCProblemTwo.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/obj/Debug/net9.0/AOCProblemTwo.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemTwo/obj/Debug/net9.0/ref/AOCProblemTwo.dll

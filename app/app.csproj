@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AOCProblemOne\AOCProblemOne.csproj" />
+    <ProjectReference Include="..\AOCProblemTwo\AOCProblemTwo.csproj" />
   </ItemGroup>
 
 </Project>

@@ -35,3 +35,5 @@
 /Users/myfuhrer/Desktop/AOC2024/AOC2024/app/obj/Debug/net9.0/app.csproj.Up2Date
 /Users/myfuhrer/Desktop/AOC2024/AOC2024/app/obj/Debug/net9.0/app.genruntimeconfig.cache
 /Users/myfuhrer/Desktop/AOC2024/AOC2024/app/obj/Debug/net9.0/ref/app.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/app/bin/Debug/net9.0/AOCProblemTwo.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/app/bin/Debug/net9.0/AOCProblemTwo.pdb
