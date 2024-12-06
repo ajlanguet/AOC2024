@@ -33,9 +33,9 @@ foreach(string line in lines2)
     levels.Add(numbers);
 }
 
-Console.WriteLine("Aoc Day 2 Part 1 Ans");
+Console.WriteLine("Aoc Day 2 Part 1 Ans:");
 Console.WriteLine(AocDayTwo.PartOne(levels));
-Console.WriteLine("Aoc Day 2 Part 2 Ans");
+Console.WriteLine("Aoc Day 2 Part 2 Ans:");
 Console.WriteLine(AocDayTwo.PartTwo(levels));
 
 // Day 3
@@ -44,8 +44,19 @@ string filePath3 = "../AOCProblemThree/AOCproblem3.txt";
 
 string[] lines3 = File.ReadAllLines(filePath3);
 
-Console.WriteLine("Aoc Day 3 Part 1 Ans");
+Console.WriteLine("Aoc Day 3 Part 1 Ans:");
 Console.WriteLine(AocDayThree.PartOne(lines3));
-Console.WriteLine("Aoc Day 3 Part 2 Ans");
+Console.WriteLine("Aoc Day 3 Part 2 Ans:");
 Console.WriteLine(AocDayThree.PartTwo(lines3));
+
+// Day 4
+
+string filePath4 = "../AOCProblemFour/AOCproblem4.txt";
+
+string[] lines4 = File.ReadAllLines(filePath4);
+
+Console.WriteLine("Aoc Day 4 Part 1 Ans:");
+Console.WriteLine(AocDayFour.PartOne(lines4));
+Console.WriteLine("Aoc Day 4 Part 2 Ans:");
+Console.WriteLine(AocDayFour.PartTwo(lines4));
 

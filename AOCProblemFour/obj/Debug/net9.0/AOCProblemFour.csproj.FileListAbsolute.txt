@@ -1,0 +1,12 @@
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/bin/Debug/net9.0/AOCProblemFour.deps.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/bin/Debug/net9.0/AOCProblemFour.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/bin/Debug/net9.0/AOCProblemFour.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/obj/Debug/net9.0/AOCProblemFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/obj/Debug/net9.0/AOCProblemFour.AssemblyInfoInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/obj/Debug/net9.0/AOCProblemFour.AssemblyInfo.cs
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/obj/Debug/net9.0/AOCProblemFour.csproj.CoreCompileInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/obj/Debug/net9.0/AOCProblemFour.sourcelink.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/obj/Debug/net9.0/AOCProblemFour.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/obj/Debug/net9.0/refint/AOCProblemFour.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/obj/Debug/net9.0/AOCProblemFour.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/obj/Debug/net9.0/ref/AOCProblemFour.dll
