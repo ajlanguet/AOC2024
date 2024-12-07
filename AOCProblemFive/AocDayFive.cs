@@ -103,14 +103,6 @@ public class AocDayFive
         Dictionary<int, List<int>> order_map = new Dictionary<int, List<int>>();
         int total = 0;
         List<int[]> truth = new List<int[]>();
-        SortedSet<int> nums = new SortedSet<int>();
-
-        foreach(int[] or in order)
-        {
-            nums.Add(or[0]);
-        }
-        Console.WriteLine(string.Join(", ", nums));
-        Console.WriteLine(nums.Count);
 
         foreach(int[] ord in order)
         {
@@ -134,25 +126,12 @@ public class AocDayFive
             }
         }
 
-        foreach(var kvp in order_map)
-        {
-            Console.WriteLine($"{kvp.Key}: {string.Join(", ", kvp.Value)}");
-        }
-        int count = 1;
         foreach(int[] tr in truth)
         {   
-            Console.WriteLine($"Unsorted: {count}");
-            Console.WriteLine(string.Join(", ", tr));
-            OrderTruth(order_map, tr);
-            Console.WriteLine($"Sorted: {count}");
-            Console.WriteLine(string.Join(", ", tr));
-            Console.WriteLine($"Length: {tr.Length}");
-            count++;
-        }
-        foreach(int[] tr in truth)
-        {   
+            OrderTruth(order_map, tr); 
             total += FindMiddle(tr);
         }
+
      return total; 
     }
 
