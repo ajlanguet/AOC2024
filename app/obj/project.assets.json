@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "AOCProblemFive/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/AOCProblemFive.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AOCProblemFive.dll": {}
+        }
+      },
       "AOCProblemFour/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -45,6 +55,11 @@
     }
   },
   "libraries": {
+    "AOCProblemFive/1.0.0": {
+      "type": "project",
+      "path": "../AOCProblemFive/AOCProblemFive.csproj",
+      "msbuildProject": "../AOCProblemFive/AOCProblemFive.csproj"
+    },
     "AOCProblemFour/1.0.0": {
       "type": "project",
       "path": "../AOCProblemFour/AOCProblemFour.csproj",
@@ -68,6 +83,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "AOCProblemFive >= 1.0.0",
       "AOCProblemFour >= 1.0.0",
       "AOCProblemOne >= 1.0.0",
       "AOCProblemThree >= 1.0.0",
@@ -99,6 +115,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/AOCProblemFive.csproj": {
+              "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/AOCProblemFive.csproj"
+            },
             "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/AOCProblemFour.csproj": {
               "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFour/AOCProblemFour.csproj"
             },

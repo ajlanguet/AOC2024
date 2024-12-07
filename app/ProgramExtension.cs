@@ -8,23 +8,10 @@ public static class ProgramExtension
                 .ToArray());
     }
 
-    public static int[] GivesIntegersWithThreeSpace(this string input)
+    public static int[] GiveIntegers(this string input, string remove)
     {
-       
-        string[] vals = input.Split("   ");
+        string[] vals = input.Split(remove);
 
-        int[] intvals = Array.ConvertAll(vals, int.Parse);
-
-        return intvals;
+        return Array.ConvertAll(vals, int.Parse);
     }
-
-    public static int[] GiveIntegers(this string input)
-    {
-        string[] vals = input.Split(' ');
-
-        int[] intvals = Array.ConvertAll(vals, int.Parse);
-
-        return intvals;
-    }
-
 }

@@ -1,0 +1,12 @@
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/bin/Debug/net9.0/AOCProblemFive.deps.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/bin/Debug/net9.0/AOCProblemFive.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/bin/Debug/net9.0/AOCProblemFive.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/obj/Debug/net9.0/AOCProblemFive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/obj/Debug/net9.0/AOCProblemFive.AssemblyInfoInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/obj/Debug/net9.0/AOCProblemFive.AssemblyInfo.cs
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/obj/Debug/net9.0/AOCProblemFive.csproj.CoreCompileInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/obj/Debug/net9.0/AOCProblemFive.sourcelink.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/obj/Debug/net9.0/AOCProblemFive.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/obj/Debug/net9.0/refint/AOCProblemFive.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/obj/Debug/net9.0/AOCProblemFive.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemFive/obj/Debug/net9.0/ref/AOCProblemFive.dll

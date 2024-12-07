@@ -9,7 +9,7 @@ List<int> row2 = new List<int>();
 
 
 foreach(string line in lines){
-    int[] numbers = line.GivesIntegersWithThreeSpace();
+    int[] numbers = line.GiveIntegers("   ");
     row1.Add(numbers[0]);
     row2.Add(numbers[1]);
 }
@@ -29,7 +29,7 @@ List<int[]> levels = new List<int[]>();
 
 foreach(string line in lines2)
 {
-    int[] numbers = line.GiveIntegers();
+    int[] numbers = line.GiveIntegers(" ");
     levels.Add(numbers);
 }
 
@@ -59,4 +59,33 @@ Console.WriteLine("Aoc Day 4 Part 1 Ans:");
 Console.WriteLine(AocDayFour.PartOne(lines4));
 Console.WriteLine("Aoc Day 4 Part 2 Ans:");
 Console.WriteLine(AocDayFour.PartTwo(lines4));
+
+// Day 5
+
+string filePath5a = "../AOCProblemFive/AOCproblem5a.txt";
+
+string filePath5b = "../AOCProblemFive/AOCproblem5b.txt";
+
+string [] lines5a = File.ReadAllLines(filePath5a);
+
+string [] lines5b = File.ReadAllLines(filePath5b);
+
+List<int[]> order = new List<int[]>();
+List<int[]> update = new List<int[]>();
+
+foreach(string line5a in lines5a)
+{
+    order.Add(line5a.GiveIntegers("|"));
+}
+
+foreach(string line5b in lines5b)
+{
+    update.Add(line5b.GiveIntegers(","));
+}
+
+Console.WriteLine("Aoc Day 5 Part 1 Ans:");
+Console.WriteLine(AocDayFive.PartOne(order, update));
+Console.WriteLine("Aoc Day 4 Part 2 Ans:");
+Console.WriteLine(AocDayFive.PartTwo(order, update));
+
 

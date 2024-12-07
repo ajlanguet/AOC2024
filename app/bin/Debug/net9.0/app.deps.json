@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "app/1.0.0": {
         "dependencies": {
+          "AOCProblemFive": "1.0.0",
           "AOCProblemFour": "1.0.0",
           "AOCProblemOne": "1.0.0",
           "AOCProblemThree": "1.0.0",
@@ -15,6 +16,14 @@
         },
         "runtime": {
           "app.dll": {}
+        }
+      },
+      "AOCProblemFive/1.0.0": {
+        "runtime": {
+          "AOCProblemFive.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "AOCProblemFour/1.0.0": {
@@ -53,6 +62,11 @@
   },
   "libraries": {
     "app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AOCProblemFive/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
