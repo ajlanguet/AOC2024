@@ -88,4 +88,15 @@ Console.WriteLine(AocDayFive.PartOne(order, update));
 Console.WriteLine("Aoc Day 4 Part 2 Ans:");
 Console.WriteLine(AocDayFive.PartTwo(order, update));
 
+// Day 6
+
+string filePath6 =  "../AOCProblemSix/AOCproblem6.txt";
+
+string [] lines6 = File.ReadAllLines(filePath6);
+
+Console.WriteLine("Aoc Day 5 Part 1 Ans:");
+Console.WriteLine(AocDaySix.PartOne(lines6));
+Console.WriteLine("Aoc Day 4 Part 2 Ans:");
+Console.WriteLine(AocDaySix.PartTwo(lines6));
+
 

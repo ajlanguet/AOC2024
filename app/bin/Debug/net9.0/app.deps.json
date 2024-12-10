@@ -11,6 +11,7 @@
           "AOCProblemFive": "1.0.0",
           "AOCProblemFour": "1.0.0",
           "AOCProblemOne": "1.0.0",
+          "AOCProblemSix": "1.0.0",
           "AOCProblemThree": "1.0.0",
           "AOCProblemTwo": "1.0.0"
         },
@@ -37,6 +38,14 @@
       "AOCProblemOne/1.0.0": {
         "runtime": {
           "AOCProblemOne.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AOCProblemSix/1.0.0": {
+        "runtime": {
+          "AOCProblemSix.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -77,6 +86,11 @@
       "sha512": ""
     },
     "AOCProblemOne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AOCProblemSix/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

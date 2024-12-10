@@ -43,3 +43,5 @@
 /Users/myfuhrer/Desktop/AOC2024/AOC2024/app/bin/Debug/net9.0/AOCProblemFour.pdb
 /Users/myfuhrer/Desktop/AOC2024/AOC2024/app/bin/Debug/net9.0/AOCProblemFive.dll
 /Users/myfuhrer/Desktop/AOC2024/AOC2024/app/bin/Debug/net9.0/AOCProblemFive.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/app/bin/Debug/net9.0/AOCProblemSix.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/app/bin/Debug/net9.0/AOCProblemSix.pdb
