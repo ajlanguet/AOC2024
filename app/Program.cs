@@ -85,7 +85,7 @@ foreach(string line5b in lines5b)
 
 Console.WriteLine("Aoc Day 5 Part 1 Ans:");
 Console.WriteLine(AocDayFive.PartOne(order, update));
-Console.WriteLine("Aoc Day 4 Part 2 Ans:");
+Console.WriteLine("Aoc Day 5 Part 2 Ans:");
 Console.WriteLine(AocDayFive.PartTwo(order, update));
 
 // Day 6
@@ -94,18 +94,29 @@ string filePath6 =  "../AOCProblemSix/AOCproblem6.txt";
 
 string [] lines6 = File.ReadAllLines(filePath6);
 
-Console.WriteLine("Aoc Day 5 Part 1 Ans:");
+Console.WriteLine("Aoc Day 6 Part 1 Ans:");
 Console.WriteLine(AocDaySix.PartOne(lines6));
-Console.WriteLine("Aoc Day 4 Part 2 Ans:");
+Console.WriteLine("Aoc Day 6 Part 2 Ans:");
 Console.WriteLine(AocDaySix.PartTwo(lines6));
 */
 
 // Day 7
-string filePath7 =  "../AOCProblemSix/AOCproblem6.txt";
+string filePath7 =  "../AOCProblemSeven/AOCproblem7.txt";
 
 string [] lines7 = File.ReadAllLines(filePath7);
 
-Console.WriteLine("Aoc Day 5 Part 1 Ans:");
-Console.WriteLine(AocDaySix.PartOne(lines7));
-//Console.WriteLine("Aoc Day 4 Part 2 Ans:");
-//Console.WriteLine(AocDaySix.PartTwo(lines7));
+List<long> keys = new List<long>();
+List<long[]> vals = new List<long[]>();
+
+foreach(string line7 in lines7)
+{
+    string[] initial_split = line7.Split(": ");
+
+    keys.Add(Int64.Parse(initial_split[0]));
+    vals.Add(initial_split[1].GiveIntegers(" "));
+}
+
+Console.WriteLine("Aoc Day 7 Part 1 Ans:");
+Console.WriteLine(AocDaySeven.PartOne(keys, vals));
+Console.WriteLine("Aoc Day 7 Part 2 Ans:");
+Console.WriteLine(AocDaySeven.PartTwo(keys, vals));

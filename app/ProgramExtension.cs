@@ -8,10 +8,10 @@ public static class ProgramExtension
                 .ToArray());
     }
 
-    public static int[] GiveIntegers(this string input, string remove)
+    public static long[] GiveIntegers(this string input, string remove)
     {
         string[] vals = input.Split(remove);
 
-        return Array.ConvertAll(vals, int.Parse);
+        return Array.ConvertAll(vals, long.Parse);
     }
 }

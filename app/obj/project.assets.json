@@ -32,6 +32,16 @@
           "bin/placeholder/AOCProblemOne.dll": {}
         }
       },
+      "AOCProblemSeven/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/AOCProblemSeven.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AOCProblemSeven.dll": {}
+        }
+      },
       "AOCProblemSix/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -80,6 +90,11 @@
       "path": "../AOCProblemOne/AOCProblemOne.csproj",
       "msbuildProject": "../AOCProblemOne/AOCProblemOne.csproj"
     },
+    "AOCProblemSeven/1.0.0": {
+      "type": "project",
+      "path": "../AOCProblemSeven/AOCProblemSeven.csproj",
+      "msbuildProject": "../AOCProblemSeven/AOCProblemSeven.csproj"
+    },
     "AOCProblemSix/1.0.0": {
       "type": "project",
       "path": "../AOCProblemSix/AOCProblemSix.csproj",
@@ -101,6 +116,7 @@
       "AOCProblemFive >= 1.0.0",
       "AOCProblemFour >= 1.0.0",
       "AOCProblemOne >= 1.0.0",
+      "AOCProblemSeven >= 1.0.0",
       "AOCProblemSix >= 1.0.0",
       "AOCProblemThree >= 1.0.0",
       "AOCProblemTwo >= 1.0.0"
@@ -139,6 +155,9 @@
             },
             "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemOne/AOCProblemOne.csproj": {
               "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemOne/AOCProblemOne.csproj"
+            },
+            "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/AOCProblemSeven.csproj": {
+              "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/AOCProblemSeven.csproj"
             },
             "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSix/AOCProblemSix.csproj": {
               "projectPath": "/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSix/AOCProblemSix.csproj"

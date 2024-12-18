@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AOCProblemOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a666cf7f2dba0913b1bd5e85a5042ed071a3eac2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76fd9e2275cb42807ab8139b5442855985735e83")]
 [assembly: System.Reflection.AssemblyProductAttribute("AOCProblemOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AOCProblemOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

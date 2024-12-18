@@ -1,0 +1,12 @@
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/obj/Debug/net9.0/AOCProblemSeven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/obj/Debug/net9.0/AOCProblemSeven.AssemblyInfoInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/obj/Debug/net9.0/AOCProblemSeven.AssemblyInfo.cs
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/obj/Debug/net9.0/AOCProblemSeven.csproj.CoreCompileInputs.cache
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/obj/Debug/net9.0/AOCProblemSeven.sourcelink.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/bin/Debug/net9.0/AOCProblemSeven.deps.json
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/bin/Debug/net9.0/AOCProblemSeven.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/bin/Debug/net9.0/AOCProblemSeven.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/obj/Debug/net9.0/AOCProblemSeven.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/obj/Debug/net9.0/refint/AOCProblemSeven.dll
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/obj/Debug/net9.0/AOCProblemSeven.pdb
+/Users/myfuhrer/Desktop/AOC2024/AOC2024/AOCProblemSeven/obj/Debug/net9.0/ref/AOCProblemSeven.dll
