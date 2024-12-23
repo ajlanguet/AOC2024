@@ -115,8 +115,19 @@ foreach(string line7 in lines7)
     keys.Add(Int64.Parse(initial_split[0]));
     vals.Add(initial_split[1].GiveIntegers(" "));
 }
-
+/*
 Console.WriteLine("Aoc Day 7 Part 1 Ans:");
 Console.WriteLine(AocDaySeven.PartOne(keys, vals));
 Console.WriteLine("Aoc Day 7 Part 2 Ans:");
 Console.WriteLine(AocDaySeven.PartTwo(keys, vals));
+*/
+
+// Day 8
+string filePath8 =  "../AOCProblemEight/AOCproblem8.txt";
+
+string [] lines8 = File.ReadAllLines(filePath8);
+
+Console.WriteLine("Aoc Day 8 Part 1 Ans:");
+Console.WriteLine(AocDayEight.PartOne(lines8));
+Console.WriteLine("Aoc Day 8 Part 2 Ans:");
+Console.WriteLine(AocDayEight.PartTwo(lines8));
