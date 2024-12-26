@@ -16,6 +16,8 @@
     <ProjectReference Include="..\AOCProblemSix\AOCProblemSix.csproj" />
     <ProjectReference Include="..\AOCProblemSeven\AOCProblemSeven.csproj" />
     <ProjectReference Include="..\AOCProblemEight\AOCProblemEight.csproj" />
+    <ProjectReference Include="..\AOCProblemNine\AOCProblemNine.csproj" />
+    <ProjectReference Include="..\AOCProblemTen\AOCProblemTen.csproj" />
   </ItemGroup>
 
 </Project>

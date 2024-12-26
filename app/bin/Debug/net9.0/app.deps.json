@@ -11,9 +11,11 @@
           "AOCProblemEight": "1.0.0",
           "AOCProblemFive": "1.0.0",
           "AOCProblemFour": "1.0.0",
+          "AOCProblemNine": "1.0.0",
           "AOCProblemOne": "1.0.0",
           "AOCProblemSeven": "1.0.0",
           "AOCProblemSix": "1.0.0",
+          "AOCProblemTen": "1.0.0",
           "AOCProblemThree": "1.0.0",
           "AOCProblemTwo": "1.0.0"
         },
@@ -45,6 +47,14 @@
           }
         }
       },
+      "AOCProblemNine/1.0.0": {
+        "runtime": {
+          "AOCProblemNine.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "AOCProblemOne/1.0.0": {
         "runtime": {
           "AOCProblemOne.dll": {
@@ -64,6 +74,14 @@
       "AOCProblemSix/1.0.0": {
         "runtime": {
           "AOCProblemSix.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AOCProblemTen/1.0.0": {
+        "runtime": {
+          "AOCProblemTen.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -108,6 +126,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "AOCProblemNine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "AOCProblemOne/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -119,6 +142,11 @@
       "sha512": ""
     },
     "AOCProblemSix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AOCProblemTen/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

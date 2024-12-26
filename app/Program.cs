@@ -131,3 +131,26 @@ Console.WriteLine("Aoc Day 8 Part 1 Ans:");
 Console.WriteLine(AocDayEight.PartOne(lines8));
 Console.WriteLine("Aoc Day 8 Part 2 Ans:");
 Console.WriteLine(AocDayEight.PartTwo(lines8));
+
+// Day 9
+
+string filePath9 = "../AOCProblemNine/AOCproblem9test.txt";
+
+string[] lines9 = File.ReadAllLines(filePath9);
+
+Console.WriteLine("Aoc Day 9 Part 1 Ans:");
+Console.WriteLine(AocDayNine.PartOne(lines9[0]));
+Console.WriteLine("Aoc Day 9 Part 2 Ans:");
+Console.WriteLine(AocDayNine.PartTwo(lines9[0]));
+
+
+// Day 9
+
+string filePath10 = "../AOCProblemTen/AOCproblem10.txt";
+
+string[] lines10 = File.ReadAllLines(filePath10);
+
+Console.WriteLine("Aoc Day 10 Part 1 Ans:");
+Console.WriteLine(AocDayTen.PartOne(lines10));
+Console.WriteLine("Aoc Day 10 Part 2 Ans:");
+Console.WriteLine(AocDayTen.PartTwo(lines10));
