@@ -59,7 +59,7 @@ public class AocDayTen
             {
                 if(matrix[i,j] == 0)
                 {
-                    visited = new HashSet<string>(); // don't really need this
+                    visited = new HashSet<string>(); 
                     total+= FindPath(matrix, rows, cols, i, j);
                 }
             }
@@ -82,7 +82,7 @@ public class AocDayTen
             {
                 if(matrix[i,j] == 0)
                 {
-                    visited = new HashSet<string>();
+                    visited = new HashSet<string>(); // don't really need this for part 2
                     total+= FindPath(matrix, rows, cols, i, j);
                 }
             }

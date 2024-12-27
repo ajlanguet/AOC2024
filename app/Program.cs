@@ -143,8 +143,7 @@ Console.WriteLine(AocDayNine.PartOne(lines9[0]));
 Console.WriteLine("Aoc Day 9 Part 2 Ans:");
 Console.WriteLine(AocDayNine.PartTwo(lines9[0]));
 
-
-// Day 9
+// Day 10
 
 string filePath10 = "../AOCProblemTen/AOCproblem10.txt";
 
@@ -154,3 +153,14 @@ Console.WriteLine("Aoc Day 10 Part 1 Ans:");
 Console.WriteLine(AocDayTen.PartOne(lines10));
 Console.WriteLine("Aoc Day 10 Part 2 Ans:");
 Console.WriteLine(AocDayTen.PartTwo(lines10));
+
+// Day 11
+
+string filePath11 = "../AOCProblemEleven/AOCproblem11.txt";
+
+string[] lines11 = File.ReadAllLines(filePath11);
+
+Console.WriteLine("Aoc Day 11 Part 1 Ans:");
+Console.WriteLine(AocDayEleven.PartOne(lines11[0]));
+Console.WriteLine("Aoc Day 11 Part 2 Ans:");
+Console.WriteLine(AocDayEleven.PartTwo(lines11[0]));
